@@ -1,0 +1,92 @@
+{
+    "Dinos": [
+        {
+            "species": "Triceratops",
+            "weight": 13000,
+            "height": 114,
+            "diet": "herbavor",
+            "where": "North America",
+            "when": "Late Cretaceous",
+            "facts": ["First discovered in 1889 by Othniel Charles Marsh.",
+                    "It is one of the most recognizable of all dinosaurs and the most well-known ceratopsid.",
+                    "It shared the landscape with and was most likely preyed upon by Tyrannosaurus."
+                ]
+        },
+        {
+            "species": "Tyrannosaurus Rex",
+            "weight": 11905,
+            "height": 144,
+            "diet": "carnivor",
+            "where": "North America",
+            "when": "Late Cretaceous",
+            "facts": ["The largest known skull measures in at 5 feet long.",
+                    "It had massive skull balanced by a long, heavy tail.",
+                    "It is among the largest known land predators and is estimated to have exerted the strongest bite force among all terrestrial animals."]
+        },
+        {
+            "species": "Anklyosaurus",
+            "weight": 10500,
+            "height": 55,
+            "diet": "herbavor",
+            "where": "North America",
+            "when": "Late Cretaceous",
+            "facts": ["Anklyosaurus survived for approximately 135 million years.",
+                    "It was one of the last of the non-avian dinosaurs.",
+                    "It was quadrupedal, with a broad, robust body."]
+        },
+        {
+            "species": "Brachiosaurus",
+            "weight": 70000,
+            "height": "372",
+            "diet": "herbavor",
+            "where": "North America",
+            "when": "Late Jurasic",
+            "facts": ["An asteroid was named 9954 Brachiosaurus in 1991.",
+                    "It is regarded as a high browser, possibly cropping or nipping vegetation as high as 9 meters (30 ft) off the ground.",
+                    "It has been used as an example of a dinosaur that was most likely ectothermic because of its large size and the corresponding need for sufficient forage, but more recent research suggests it was warm-blooded."]
+        },
+        {
+            "species": "Stegosaurus",
+            "weight": 11600,
+            "height": 79,
+            "diet": "herbavor",
+            "where": "North America, Europe, Asia",
+            "when": "Late Jurasic to Early Cretaceous",
+            "facts": ["The Stegosaurus had between 17 and 22 seperate places and flat spines.",
+                    "They were large, heavily built, herbivorous quadrupeds with rounded backs, short fore limbs, long hind limbs, and tails held high in the air.",
+                    "It is generally agreed that their spiked tails were most likely used for defense against predators, while their plates may have been used primarily for display, and secondarily for thermoregulatory functions."]
+        },
+        {
+            "species": "Elasmosaurus",
+            "weight": 16000,
+            "height": 59,
+            "diet": "carnivor",
+            "where": "North America",
+            "when": "Late Cretaceous",
+            "facts": ["Elasmosaurus was a marine reptile first discovered in Kansas.",
+                    "It was one of the longest-necked animals to have lived",
+                    "The skull would have been slender and triangular, with large, fang-like teeth at the front, and smaller teeth towards the back."
+            ]
+        },
+        {
+            "species": "Pteranodon",
+            "weight": 44,
+            "height": 20,
+            "diet": "carnivor",
+            "where": "North America",
+            "when": "Late Cretaceous",
+            "facts": ["Actually a flying reptile, the Pteranodon is not a dinosaur.",
+                    "Pteranodon had toothless beaks, similar to those of birds.",
+                    "The most distinctive characteristic of Pteranodon is its cranial crest. "]
+        },
+        {
+            "species": "Pigeon",
+            "weight": 0.5,
+            "height": 9,
+            "diet": "herbavor",
+            "where": "World Wide",
+            "when": "Holocene",
+            "fact": "All birds are living dinosaurs."
+        }
+    ]
+}
