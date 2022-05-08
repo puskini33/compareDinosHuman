@@ -149,8 +149,15 @@ function compareDinoHuman () {
  * @param {Object} dino Dino object to compare with
   */
 function compareWeight(humanWeight, dino) {
-    let heavierByThisMuch = dino.weight - humanWeight;
-    dino.fact = dino.species + " weights more than you by " + heavierByThisMuch + " lbs!";
+    if (humanWeight < dino.weight) {
+        let heavierByThisMuch = dino.weight - humanWeight;
+        dino.fact = dino.species + " weights more than you by " + heavierByThisMuch + " lbs!";
+    }
+    else {
+        let heavierByThisMuch = humanWeight - dino.weight;
+        dino.fact = "You weight more than " + dino.species + " by " + heavierByThisMuch + " lbs!";
+    }
+
 }
     
 /**
