@@ -6,6 +6,7 @@ The user submits information about themselves via a form. After submission, a 3x
 Each title will contain the species, an image, and a fact. The facts displayed are random per dinosaur with an opportunity of displaying at least 6 different types of facts (3 should be from the methods you create).
 One of the titles is a pigeon in which the tile will always display, “All birds are considered dinosaurs.”
 
+Information about the Project's Big Picture was partially taken from here: https://github.com/udacity/Javascript.
 
 ### Setting up the project
 
